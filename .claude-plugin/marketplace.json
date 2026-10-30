@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "dev-doc-skills",
+  "description": "和 Claude 一起把开发任务一层层拆成文档",
+  "owner": {
+    "name": "RuifanRickyWu"
+  },
+  "plugins": [
+    {
+      "name": "dev-doc",
+      "description": "先聊，聊定了才写；你说拆哪块，就给哪块建一个新文件夹，并写清上级和依赖",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
