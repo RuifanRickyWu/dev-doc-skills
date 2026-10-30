@@ -1,0 +1,9 @@
+{
+  "name": "dev-doc",
+  "version": "0.1.0",
+  "description": "先聊，聊定了才写；你说拆哪块，就给哪块建一个新文件夹，并写清上级和依赖",
+  "author": {
+    "name": "RuifanRickyWu",
+    "url": "https://github.com/RuifanRickyWu"
+  }
+}
